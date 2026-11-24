@@ -1,0 +1,6 @@
+{
+  "name": "Hình Học Không Gian THPT – Khám Phá và Giải Toán",
+  "description": "Ứng dụng học tập hình học không gian THPT với mô hình 3D tương tác xử lý che khuất thực tế, nhập đề bằng giọng nói tiếng Việt, gợi ý sư phạm, bài giải kiểm chứng và xuất tài liệu DOCX có công thức Word OMML.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
